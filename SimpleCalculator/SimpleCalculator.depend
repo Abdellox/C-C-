@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731946993 source:c:\users\hp\onedrive\bureau\embeddedc\learnc\simplecalculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
